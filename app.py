@@ -3,4 +3,4 @@ num2 = 2
 
 sum = num1 + num2
 
-print(sum)
+print("Resultado da soma", sum)
